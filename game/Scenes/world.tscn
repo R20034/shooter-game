@@ -205,6 +205,7 @@ size = Vector3(3.41901, 1, 2.35254)
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 42.1072, 40.1701, -1.56684)
 material_override = SubResource("StandardMaterial3D_4qajv")
 cast_shadow = 0
+use_collision = true
 size = Vector3(1, 4.84668, 3)
 
 [node name="CSGBox3D22" type="CSGBox3D" parent="Map"]
