@@ -1,5 +1,5 @@
 extends CharacterBody3D
-# 6:00
+# video 3
 var speed
 const WALK_SPEED = 5.0
 const SPRINT_SPEED = 8.0
